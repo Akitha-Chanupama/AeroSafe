@@ -1,3 +1,3 @@
 AeroSafe - IOT enabled Gas Detection system 
 
-Developed by
+Developed in Sri Lanka
